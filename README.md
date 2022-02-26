@@ -1,12 +1,5 @@
-# HALISAHA
-
-* Kaliteli sahalar
-* Yeni zemin 
-* Her sahada kamera
+# BOOTSTRAP ile İnstagram Klonu
 
 
-```                           
-  YEŞİL HALI SAHA
-```
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
